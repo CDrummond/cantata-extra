@@ -1,0 +1,90 @@
+<!-- Category types: - 0:General, 1:Digitally Imported, 2:ListenLive -->
+<providers>
+ <category type="0">
+  <provider name="1.fm" md5="cbd6ad834d4493662952a653cea5c779"/>
+  <provider name="977 Music" md5="1c1bcec1d127afb2699f7f7bb51b2e1a"/>
+  <provider name="Absolute Radio" md5="1ac44b50f209d45d3ea16c5f49a33f09"/>
+  <provider name="BBC" md5="6883ffe01e6298031ee51ac7e3342531"/>
+  <provider name="ChroniX" md5="7148dc87d2631d470bfd26c056810b6e"/>
+  <provider name="CBC Radio" md5="c304600dc6ad0e53b97e2ebcc582a1e0"/>
+  <provider name="German Radio" md5="432dfa5b4b94288838814f4877f77610"/>
+  <provider name="Jamendo" md5="537527ae81f9c51d4d847595e09251ec"/>
+  <provider name="Radio GFM" md5="e2ef4f30eb3faa81d3a9cf20543e6cbf"/>
+  <provider name="SomaFM" md5="97ce32b7cb6043e6a71236da4e6a874b"/>
+ </category>
+ <category type="1">
+  <provider name="Digitally Imported" md5="abcf56f838bd922fc721797defb62af6"/>
+  <provider name="JazzRadio.com" md5="19dc1bc7beec6b493cdf214996a609a7"/>
+  <provider name="RockRadio.com" md5="b882c1e2be8e1202f0193117af8cc8c4"/>
+  <provider name="Sky.fm" md5="959fc2e32361c6bf806138d51691b3a6"/>
+ </category>
+ <category type="2">
+  <provider name="Albania" md5="f68c8b0b9786e008a962a262c52fbcca"/>
+  <provider name="Andorra" md5="b742142b55a1efc960cc3db2384bd4f3"/>
+  <provider name="Armenia" md5="16d9fabb81f8d78821ecc1026a9b588d"/>
+  <provider name="Australia" md5="9fa38817e443692f1537b6a158f421c0"/>
+  <provider name="Austria" md5="1fc7fd2016bf2bc343c744f221c4d301"/>
+  <provider name="Azerbaijan" md5="9ff28138281efbb330ff463d54f0c2ec"/>
+  <provider name="Belarus" md5="6da40408fb510ad6dfa3a05431e36cab"/>
+  <provider name="Belgium" md5="85828ad2d7d813135c40a3672ecb543c"/>
+  <provider name="Bosnia-Herzegovina" md5="a2463e1f1b036405862e45feeed4a4cd"/>
+  <provider name="Bulgaria" md5="0def3014b392c9e88a54d396ae55bf0b"/>
+  <provider name="Canada - Alberta" md5="6311a2cbb2d31a45a07ce63c42f21e93"/>
+  <provider name="Canada - British Columbia" md5="1663edc47ddd37725ad35434a1863d0d"/>
+  <provider name="Canada - Manitoba" md5="abc86079cac9f102a883f540ed5c12ae"/>
+  <provider name="Canada - New Brunswick" md5="c48e9a35c5d94f4808cdb4778c3d1448"/>
+  <provider name="Canada - Newfoundland" md5="4d8f0ba744a4c5dea17805d9531ebd44"/>
+  <provider name="Canada - Northwest Territories" md5="d382379bfe3fea9c86fb760c74a27d59"/>
+  <provider name="Canada - Nova Scotia" md5="41806f2a46c7cbe1302d7a2d5e027130"/>
+  <provider name="Canada - Ontario" md5="85f7e80b65aaab9539ec21b33e6c9d72"/>
+  <provider name="Canada - Prince Edward Island" md5="0765805bcdf6cfc16f0210ed7f900894"/>
+  <provider name="Canada - Quebec" md5="9b47e7c40336cc98702861178d772428"/>
+  <provider name="Canada - Saskatchewan" md5="60318e465b0264e8e59f2000283f0723"/>
+  <provider name="Canada - Yukon" md5="9a99cf941129792fee104b438ff2896d"/>
+  <provider name="Croatia" md5="8638fef3a955449d6994770a2b4a74f4"/>
+  <provider name="Cyprus" md5="395b326e1739606e9bfa7617bc0f98e5"/>
+  <provider name="Czech Republic" md5="b078789dcc7a9b1044655099f54da78c"/>
+  <provider name="Denmark" md5="fd278acd607db8e907ed92550f45295c"/>
+  <provider name="Estonia" md5="e9d572c9e063a8527aca10867ee92467"/>
+  <provider name="Faroe Islands" md5="241914bfc2906a4f46161afa3a88ec72"/>
+  <provider name="Finland" md5="bd8e07c0218b9863a71121f662c3fb7e"/>
+  <provider name="France" md5="2f202cf932c94478d87d73539382b04c"/>
+  <provider name="Georgia" md5="28f1e87c2aeac1adc651720df63a320c"/>
+  <provider name="Germany" md5="6442cb7b1c5b0f591762502a81446795"/>
+  <provider name="Gibraltar" md5="80808ebd41a4bed8f94188eb606ba236"/>
+  <provider name="Greece" md5="346248144f42e078de387e03e5583aed"/>
+  <provider name="Hungary" md5="5250c8eb0ca7057c4124cb53de1a5d76"/>
+  <provider name="Iceland" md5="de0d7abcb6fb8078cc159e9d0b23afd8"/>
+  <provider name="Ireland" md5="6546b4ed188ddde0fd61d6d33f08ac3e"/>
+  <provider name="Italy" md5="c78e37d5dda77aae5475906ac345a153"/>
+  <provider name="Latvia" md5="25b17cef0d2933ff8df4f7337375423c"/>
+  <provider name="Liechtenstein" md5="a9bf5d75d6c38651d8ea4a877701f69c"/>
+  <provider name="Lithuania" md5="7c8df3fd95312198bb5934b113181fdf"/>
+  <provider name="Luxembourg" md5="3a0094679ec8b7010e6ed59b50481eca"/>
+  <provider name="Macedonia" md5="e897415ce2a3eb16be3eef5cbdcb73e6"/>
+  <provider name="Malta" md5="f6faff11af1f30e1ce3b82467f520013"/>
+  <provider name="Moldova" md5="9a06542c9778a5e95e5aca14221aa3a9"/>
+  <provider name="Monaco" md5="eb845b29a33b9ca3a92099e28c27550c"/>
+  <provider name="Montenegro" md5="1aa71c95e6959e41667dd012944f45dd"/>
+  <provider name="Netherlands" md5="14ca325871677ac5ee274a71b69af3f1"/>
+  <provider name="New Zealand" md5="930e1d0e1751a0b1c336e93ce5e49809"/>
+  <provider name="Norway" md5="935557f4b10a8df8a080ebec7bbdf216"/>
+  <provider name="Nunavut" md5="a42538abe18e18f7e3ef7f2f796a5683"/>
+  <provider name="Poland" md5="6c6c024b912722c9f1ac37305f7c61d0"/>
+  <provider name="Portugal" md5="890f9c013c9d913a8084441eec9450c9"/>
+  <provider name="Romania" md5="6750d224f97ac731514d030847ae64c6"/>
+  <provider name="Russia" md5="7ad328cd7f1c65bf91e7a7c040dfeb58"/>
+  <provider name="San Marino" md5="611a792186ea66965b2842bb0478974d"/>
+  <provider name="Serbia" md5="851e43894d6cea6d23fdadbf14586509"/>
+  <provider name="Slovakia" md5="591b9bcb40924b3d2811f55634d55f23"/>
+  <provider name="Slovenia" md5="ac48c32ebbf918e423b464ca91e4d816"/>
+  <provider name="Spain" md5="cd920323135418d9c0e07354f37f1efe"/>
+  <provider name="Sweden" md5="5753de055390a56506f58abc14c5dac4"/>
+  <provider name="Switzerland" md5="79daeef6e5ca5a03f46d19ac28726c77"/>
+  <provider name="Turkey" md5="32b4c7ef43b8e6f2d3728d8f59793fcb"/>
+  <provider name="Ukraine" md5="d3acef2cfc62da741f4d12514c91963e"/>
+  <provider name="United Kingdom" md5="4183a14ed4ab36a42d9f2bf3c0f4827c"/>
+  <provider name="United States" md5="f763635573d4fdb550d6c92d60fa5a63"/>
+  <provider name="Vatican State" md5="d74fad41ea2c359cb27d694616229df3"/>
+ </category>
+</providers>
